@@ -103,7 +103,7 @@ export const HubspotIntegration = ({
             ) : isConnecting ? (
               <CircularProgress size={20} />
             ) : (
-              "Connect to Hubspot"
+              "Connect to Hubspot."
             )}
           </Button>
         </Box>
